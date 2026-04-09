@@ -14,17 +14,16 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Projects
     - name: Experiences
-    - name: Blog
+    - name: Blogs
 
 
 footer:
   show_powered_by: false
   contact:
     - name: Email
-      value: scottxu@stanford.edu
-      link: mailto:scottxu@stanford.edu
+      value: scottxu0520@gmail.com
+      link: mailto:scottxu0520@gmail.com
     - name: WeChat
       value: scottxu9375
       link: "#"
@@ -32,7 +31,7 @@ footer:
     - name: LinkedIn
       link: http://linkedin.com/in/zichuanscottxu
     - name: GitHub
-      link: http://github.com/zichuan-scott-xu
+      link: http://github.com/lasternx
 
 
 # Build settings

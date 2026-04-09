@@ -5,6 +5,6 @@ profile_picture:
   alt: website picture
 ---
 
-I am Scott Xu, a Software Engineer at Meta 🛸. I obtained my B.S. in Mathematics and M.S. in Computer Science at Stanford University 🌲. My interests range from applying AI models for social advancements, cool computer graphics in game developments, and the wildness and beauty of mathematics.
+I am a Machine Learning Engineer at <a href="https://www.snowflake.com/en/">Snowflake</a>. Previously, I worked on Instagram Stories Ranking at Meta and obtained my B.S. in Mathematics and M.S. in Computer Science from Stanford University. 
 
-Previously, I interned at IMC Trading as a quantitative researcher in Summer 2023 and Google in Summer 2022. I was an undergraduate researcher at <a href="http://snap.stanford.edu/">Stanford's SNAP group</a> in the CURIS Program, 2021.
+My current interests lie in Large Language Modeling, Mathematics, and the frontier of agentic systems. I have two cats named as Bochoy and Kana. 
